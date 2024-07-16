@@ -2,6 +2,12 @@
 
 This project showcases a responsive review section with a dynamic image popup feature. Users can browse through product images and view detailed reviews, including user feedback, ratings, and additional images. The layout is designed to be mobile-friendly and visually appealing.
 
+![](https://github.com/SharookMohamed/react-currency-converter/blob/master/Screenshot%20(67).png?raw=true)
+
+![](https://github.com/SharookMohamed/react-currency-converter/blob/master/Screenshot%20(68).png?raw=true)
+
+![](https://github.com/SharookMohamed/react-currency-converter/blob/master/Screenshot%20(68).png?raw=true)
+
 ## Features
 
 - **Responsive Design**: Adaptable layout for desktop and mobile devices.
